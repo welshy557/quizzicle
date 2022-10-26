@@ -1,3 +1,13 @@
+# Quizzicle
+
+Built with the Open Trivia Api
+
+Hosted via Netlfy at https://animated-sable-9965d7.netlify.app/
+
+Inital Setup
+
+- 'yarn install'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
